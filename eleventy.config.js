@@ -115,6 +115,8 @@ module.exports = function(eleventyConfig) {
 
     // Put robots.txt in root
     eleventyConfig.addPassthroughCopy({ 'content/robots.txt': '/robots.txt' });
+	// Copy `img/favicon/` to `_site/`
+    eleventyConfig.addPassthroughCopy({ "img/favicon": "/" });
     // eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 	return {
 		// Control which files Eleventy will process

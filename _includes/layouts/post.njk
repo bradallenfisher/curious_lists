@@ -15,9 +15,9 @@ layout: layouts/base.njk
 	{%- endfor %}
 </ul>
 <p class="excerpt">{{ description or meta.description }}</p>
-<article>
+<section class="list">
 {{ content | safe }}
-</article>
+</section>
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
 {%- set nextPost = collections.posts | getNextCollectionItem %}
