@@ -89,6 +89,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
+	
 
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
@@ -112,6 +113,9 @@ module.exports = function(eleventyConfig) {
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
+    // Put robots.txt in root
+    eleventyConfig.addPassthroughCopy({ 'content/robots.txt': '/robots.txt' });
+    // eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid
