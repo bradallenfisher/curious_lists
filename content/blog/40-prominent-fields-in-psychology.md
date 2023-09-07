@@ -1,5 +1,5 @@
 ---
-title: '40 Prominent Fields of Psychology'
+title: '40 Prominent Fields in Psychology'
 description: Curious about a career in psychology? Explore this list of 40 prominent fields to discover the diverse specializations available to you.
 featured_img: /img/logo.png
 date: 2023-09-07
@@ -18,7 +18,7 @@ meta:
       height: 242
   language: en-US
   url: https://curiouslists.com/40-prominent-fields-in-psychology
-  title: '40 Prominent Fields of Psychology'
+  title: '40 Prominent Fields in Psychology'
   description: Curious about a career in psychology? Explore this list of 40 prominent fields to discover the diverse specializations available to you.
   image:
     src: /img/logo.png
