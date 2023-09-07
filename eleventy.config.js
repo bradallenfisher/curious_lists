@@ -1,17 +1,15 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
-
+const markdownIt = require('markdown-it')
+const markdownItAttrs = require('markdown-it-attrs')
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
-
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 const schema = require("@quasibit/eleventy-plugin-schema");
-const markdownIt = require('markdown-it')
-const markdownItAttrs = require('markdown-it-attrs')
 
 module.exports = function(eleventyConfig) {
 	// Add attributes to the content 
@@ -96,7 +94,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
 			permalink: markdownItAnchor.permalink.ariaHidden({
-				placement: "after",
+				placement: "before",
 				class: "header-anchor",
 				symbol: "#",
 				ariaHidden: false,

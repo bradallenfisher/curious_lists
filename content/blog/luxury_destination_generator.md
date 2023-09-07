@@ -23,9 +23,22 @@ meta:
   image:
     src: /img/featured/image.png
   author:
-    name: Brad Fisher
+    name: Brad Allen Fisher
   published: 2023-08-26
   modified: 2023-08-26
+  faq:
+    - question: What is the purpose of the Luxury Destination Generator?
+      answer: The Luxury Destination Generator is designed to provide you with a list of the world's most exquisite getaways.
+    - question: Can the Luxury Destination Generator recommend off-the-beaten-path destinations?
+      answer: Yes, the generator aims to suggest unique and iconic travel destinations, including some lesser-known or up-and-coming locations that offer a vibrant travel experience.
+    - question: What is the purpose of the Luxury Destination Generator?
+      answer: The Luxury Destination Generator is designed to provide you with a list of the world's most exquisite getaways.
+    - question: How does the Luxury Destination Generator work?
+      answer: Simply choose a type, continent or price range related to your desired destination, and the generator will provide you with a curated list of luxury destinations that match your criteria.
+    - question: Can I search for specific hotels using the Luxury Destination Generator?
+      answer: No, at this time you can not use the generator to search for specific hotels.
+    - question: Is the Luxury Destination Generator only for high-end luxury hotels?
+      answer: While the generator focuses on luxury accommodations, it also includes a range of options to suit different budgets, including boutique hotels and affordable luxury stays.
 ---
 
 <label for="continent">Choose a continent:</label>
@@ -1607,17 +1620,3 @@ Q: Can the Luxury Destination Generator recommend off-the-beaten-path destinatio
 -----------------------------------------------------------------------------------
 
 A: Yes, the generator aims to suggest unique and iconic travel destinations, including some lesser-known or up-and-coming locations that offer a vibrant travel experience.
-
-faq:
-    - question: What is the purpose of the Luxury Destination Generator?
-      answer: The Luxury Destination Generator is designed to provide you with a list of the world's most exquisite getaways.
-    - question: Can the Luxury Destination Generator recommend off-the-beaten-path destinations?
-      answer: Yes, the generator aims to suggest unique and iconic travel destinations, including some lesser-known or up-and-coming locations that offer a vibrant travel experience.
-    - question: What is the purpose of the Luxury Destination Generator?
-      answer: The Luxury Destination Generator is designed to provide you with a list of the world's most exquisite getaways.
-    - question: How does the Luxury Destination Generator work?
-      answer: Simply choose a type, continent or price range related to your desired destination, and the generator will provide you with a curated list of luxury destinations that match your criteria.
-    - question: Can I search for specific hotels using the Luxury Destination Generator?
-      answer: No, at this time you can not use the generator to search for specific hotels.
-    - question: Is the Luxury Destination Generator only for high-end luxury hotels?
-      answer: While the generator focuses on luxury accommodations, it also includes a range of options to suit different budgets, including boutique hotels and affordable luxury stays.

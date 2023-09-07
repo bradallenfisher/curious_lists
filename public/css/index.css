@@ -268,3 +268,42 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+.excerpt {
+	font-size: 1.4em;
+}
+
+article ol {
+	padding: 0;
+	margin: 0;
+	max-width: 700px;
+	position: relative;
+	font-size: 1.3em;
+}
+
+article ol::before {
+	content: '';
+	width: 0.5rem;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 8%;
+	background: peachpuff;
+	z-index: -1;
+}
+
+article li {
+	padding: 0 20px 25px;
+	border-radius: 1.5rem;
+	background: peachpuff;
+}
+
+article li + li {
+	margin-top: 1rem;
+}
+
+article ::marker {
+	font-weight: 600;
+	color: tomato;
+	font-size: 2em;
+}

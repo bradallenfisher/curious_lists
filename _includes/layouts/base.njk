@@ -34,7 +34,7 @@
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 		{% jsonLdScript meta, type, tags %}
 	</head>
-	<body>
+	<body class="{{ tags[0] }} {{ tags[1] }}">
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
