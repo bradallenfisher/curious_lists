@@ -4,8 +4,8 @@ description: Curious about a career in psychology? Explore this list of 40 promi
 featured_img: /img/logo.png
 date: 2023-09-07
 tags:
- - dogs
- - reasons
+ - psychology
+ - expert
 type: post
 meta:
   site:
@@ -27,8 +27,6 @@ meta:
   published: 2023-09-07
   modified: 2023-08-07
 ---
-Certainly! Here's an expanded list for each field:
-
 1. **Clinical Psychology**
   - Diagnosing and treating mental, emotional, and behavioral disorders.
   - Working in various settings, including hospitals, private practices, and mental health clinics.

@@ -4,8 +4,8 @@ description: Curious about luxury destinations? If you plan to travel and like b
 featured_img: /img/featured.jpg
 date: 2023-08-26
 tags:
-  - luxury destination generator
-  - random list generator
+  - destination
+  - generator
 type: post
 meta:
   site:
