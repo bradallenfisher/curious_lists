@@ -306,7 +306,6 @@ h2 + .header-anchor {
 }
 
 .list ul {
-	padding:0;
 	margin: 0;
 	margin-bottom: 20px;
 }
@@ -326,6 +325,5 @@ h2 + .header-anchor {
 }
 
 .list p {
-	
 	font-size: 1.1em;
 }
