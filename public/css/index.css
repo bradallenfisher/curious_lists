@@ -305,16 +305,31 @@ h2 + .header-anchor {
 	font-weight: bold;
 }
 
-@counter-style thumbs {
-	system: cyclic;
-	symbols: "\1F44D";
-	suffix: " ";
+.list ul {
+	list-style: none;
+    padding: 10px 30px 10px 0;
+    margin: 20px 0;
+}
+  
+.list ul li {
+  display: table-row;
+  font-size: 1.3rem;
 }
 
-.list  ul {
-  list-style: thumbs;
+.list ul li::before {
+  display: table-cell;
+  text-align: right;
+  content: "\261E";
+  font-size: 1.3em;	
+  font-weight: bold;
+  color: #FF404C;
+  padding-right: 20px;
+  padding-left: 25px;
 }
 
 .list p {
 	font-size: 1.1em;
+}
+p.big-code {
+	font-size: 2em;
 }

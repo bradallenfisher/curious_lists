@@ -1,5 +1,5 @@
 ---
-title: 50 Beaches Around the World
+title: '50 Beaches Around the World'
 description: Explore our comprehensive list of the world's most breathtaking beaches. If you're curious about where to find the clearest waters and softest sands, this guide is your ultimate destination.
 featured_img: /img/logo.png
 date: 2023-09-07
@@ -27,6 +27,7 @@ meta:
   published: 2023-09-07
   modified: 2023-08-07
 ---
+&#127754; &#127958; &#127774; &#9969; &#127965; &#128726; &#128506; &#128511; &#127796; &#129720; &#128674; &#128675; &#128676; &#128741; &#128745; {.big-code}
 1. Maldives {style="counter-reset: list 0;"}
   - **color of water:**     Turquoise blue
   - **color of sand:** White
