@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/list-of-us-presidents
+  url: https://curiouslists.com/list/list-of-us-presidents
   title: 'List of U.S. Presidents'
   description: Comprehensive list of U.S. Presidents, curated for the curious historian. Political affiliation, Birth place, and other offices served round out this curious list.
   image:

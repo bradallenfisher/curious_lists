@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/15-danny-masterson-roles
+  url: https://curiouslists.com/list/15-danny-masterson-roles
   title: 15 Danny Masterson Roles
   description: Danny Masterson, known for his roles in popular TV shows, faces significant media attention due to his ongoing trial. Stay updated on the latest news.
   image:

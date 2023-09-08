@@ -17,7 +17,7 @@ meta:
       width: 1200
       height: 630
   language: en-US
-  url: https://curiouslists.com/luxury_destination_generator
+  url: https://curiouslists.com/list/luxury_destination_generator
   title: Luxury Destination Generator
   description: Curious about luxury destinations? If you plan to travel and like boutique hotel destinations... Use our destination generator list and pick a place.
   image:

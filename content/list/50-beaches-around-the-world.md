@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/50-beaches-around-the-world
+  url: https://curiouslists.com/list/50-beaches-around-the-world
   title: 50 Beaches Around the World
   description: Explore our comprehensive list of the world's most breathtaking beaches. If you're curious about where to find the clearest waters and softest sands, this guide is your ultimate destination.
   image:

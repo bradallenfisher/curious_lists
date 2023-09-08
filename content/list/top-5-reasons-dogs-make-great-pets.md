@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/top-5-reasons-dogs-make-great-pets
+  url: https://curiouslists.com/list/top-5-reasons-dogs-make-great-pets
   title: Top 5 Reasons Dogs Make Great Pets
   description: Curious about why canines reign supreme as companions? Our list details the top 5 heartwarming reasons dogs are truly man's best friend
   image:

@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/top-4-benefits-of-training-your-dog
+  url: https://curiouslists.com/list/top-4-benefits-of-training-your-dog
   title: Top 4 Benefits of Training Your Dog
   description: Curious about the perks of dog training? Learn the top 4 benefits that can enhance your bond, ensure safety, improve behavior, and boost canine confidence.
   image:
