@@ -296,11 +296,10 @@ h2 + .header-anchor {
 
 .list ol li {
     counter-increment: list;
-	background: peachpuff;
-	border-bottom: 3px solid tomato;
+	border-bottom: 3px solid lightblue;
 	padding: 20px;
 	line-height: 1.2;
-	border-radius: 1.5em;
+	border-radius: 1em;
 	margin-bottom: 1em;
     display: flex;
 	font-size: 1.4em;
@@ -309,7 +308,6 @@ h2 + .header-anchor {
 
 .list ol li:before {
     content: counter(list)". ";
-    color: tomato;
 	font-size: 2.3em;
 	padding-right: 20px;
 	font-weight: bold;

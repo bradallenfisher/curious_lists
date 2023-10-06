@@ -4,8 +4,8 @@ description: Dive into the world of anesthesiology and satisfy your curious mind
 featured_img: /img/logo.png
 date: 2023-10-06
 tags:
- - Profession
- - Medical
+ - profession
+ - medical
 type: post
 meta:
   site:

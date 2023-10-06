@@ -4,8 +4,8 @@ description: Uncover the reasons behind the surge in tech layoffs in 2023.
 featured_img: /img/logo.png
 date: 2023-10-06
 tags:
- - Industry
- - Tech
+ - industry
+ - tech
 type: post
 meta:
   site:

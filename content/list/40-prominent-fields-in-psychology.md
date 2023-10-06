@@ -5,7 +5,7 @@ featured_img: /img/logo.png
 date: 2023-09-07
 tags:
  - psychology
- - expert
+ - industry
 type: post
 meta:
   site:

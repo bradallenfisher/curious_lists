@@ -4,8 +4,8 @@ description: Hopefully this list will satisfy your curious mind about why orthod
 featured_img: /img/logo.png
 date: 2023-10-06
 tags:
- - Dental
- - Profession
+ - dental
+ - profession
 type: post
 meta:
   site:

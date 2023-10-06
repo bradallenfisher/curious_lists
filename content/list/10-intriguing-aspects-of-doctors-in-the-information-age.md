@@ -4,8 +4,8 @@ description: Dive into a curious exploration of how doctors navigate the challen
 featured_img: /img/logo.png
 date: 2023-10-06
 tags:
- - Profession
- - Technology
+ - profession
+ - tech
 type: post
 meta:
   site:
