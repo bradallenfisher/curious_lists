@@ -274,7 +274,7 @@ h1 {
 }
 @media (min-width: 700px) {
 	h1 {
-		font-size: 4em;
+		font-size: 3.1em;
 	}
 }
 h2 + .header-anchor {
