@@ -17,7 +17,7 @@ meta:
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/list/5-must-know-facts-about-keala-kanae
+  url: https://curiouslists.com/list/12-unraveled-enigmas-of-five-nights-at-freddys
   title: 12 Unraveled Enigmas of Five Nights at Freddy's
   description: Stir your curiosity with these 12 mysteries surrounding the eerie history, bizarre characters, and cryptic references in Five Nights at Freddy's.
   image:
