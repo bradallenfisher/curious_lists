@@ -4,8 +4,9 @@ description: Stir your curiosity with these 12 mysteries surrounding the eerie h
 featured_img: /img/logo.png
 date: 2023-10-24
 tags:
- - marketer
- - persona
+ - fnaf
+ - games
+ - movies
 type: post
 meta:
   site:
