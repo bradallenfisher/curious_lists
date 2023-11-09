@@ -93,10 +93,10 @@ meta:
   - **Observance:** Observe whether the individual alters their narrative when confronted with truth.
 
 10. **Emotional Vampires: Draining Emotional Energy** {style="counter-reset: list 9;"}
-   - **Interpretation:** Emotional vampires draw on others' energy through drama, neediness, or manipulation.
-   - **Detection:** Identify feelings of exhaustion or depletion after interactions with the individual.
-   - **Reversal:** Conserve emotional energy by setting limits on time spent and emotional investment.
-   - **Response:** Offer support in a way that is sustainable and doesn't compromise personal well-being.
-   - **Observance:** Notice if there's a pattern of crisis or constant need for attention.
+  - **Interpretation:** Emotional vampires draw on others' energy through drama, neediness, or manipulation.
+  - **Detection:** Identify feelings of exhaustion or depletion after interactions with the individual.
+  - **Reversal:** Conserve emotional energy by setting limits on time spent and emotional investment.
+  - **Response:** Offer support in a way that is sustainable and doesn't compromise personal well-being.
+  - **Observance:** Notice if there's a pattern of crisis or constant need for attention.
 
 This list is designed to inform and spark curiosity, not to diagnose individuals or encourage labeling. For professional advice,
