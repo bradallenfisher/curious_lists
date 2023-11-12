@@ -1,7 +1,7 @@
 ---
 title: "12 Times Cats Demonstrated Problem-Solving Skills"
 description: "Discover how cats' curious nature leads to incredible problem-solving skills. From opening doors to finding hidden treats, these feline geniuses know no bounds."
-date: 2023-11-09
+date: 2023-06-26
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-06-26
+  modified: 2023-06-26
 ---
 
 

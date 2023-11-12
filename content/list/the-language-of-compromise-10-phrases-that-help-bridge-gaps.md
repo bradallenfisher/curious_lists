@@ -1,7 +1,7 @@
 ---
 title: 'The Language of Compromise: 10 Phrases That Help Bridge Gaps'
 description: 'Discover 10 powerful phrases that foster understanding and connection in The Language of Compromise. Curious minds can bridge gaps with ease.'
-date: 2023-11-09
+date: 2023-06-03
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-06-03
+  modified: 2023-06-03
 ---
 
 

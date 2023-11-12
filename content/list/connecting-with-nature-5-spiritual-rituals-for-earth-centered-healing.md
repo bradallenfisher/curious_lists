@@ -1,7 +1,7 @@
 ---
 title: 'Connecting with Nature: 5 Spiritual Rituals for Earth-Centered Healing'
 description: 'Discover 5 spiritual rituals that foster earth-centered healing, helping you connect with nature and nurture your spirit. Get curious about the natural world.'
-date: 2023-11-10
+date: 2023-05-16
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-05-16
+  modified: 2023-05-16
 ---
 
 

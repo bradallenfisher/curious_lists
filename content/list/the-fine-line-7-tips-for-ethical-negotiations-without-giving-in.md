@@ -1,7 +1,7 @@
 ---
 title: 'The Fine Line: 7 Tips for Ethical Negotiations Without Giving In'
 description: 'Discover 7 expert tips on ethical negotiations that empower you to reach win-win outcomes. Stay curious and achieve success without compromising your values.'
-date: 2023-11-09
+date: 2023-07-19
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-07-19
+  modified: 2023-07-19
 ---
 
 

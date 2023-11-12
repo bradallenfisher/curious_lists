@@ -1,7 +1,7 @@
 ---
 title: 'Keala Kanaes Impact on Digital Marketing: A 5-Point Analysis'
 description: 'Discover the intriguing impact of Keala Kanaes 5-Point Analysis on digital marketing. A must-read for curious minds in the industry.'
-date: 2023-11-10
+date: 2022-11-15
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-11-15
+  modified: 2022-11-15
 ---
 
 

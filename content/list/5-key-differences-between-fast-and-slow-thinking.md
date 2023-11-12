@@ -1,7 +1,7 @@
 ---
 title: '5 Key Differences Between Fast and Slow Thinking'
 description: 'Discover the intriguing disparities between quick and deliberate thinking processes, examining the curious dissimilarities that impact decision-making.'
-date: 2023-11-12
+date: 2023-06-12
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-06-12
+  modified: 2023-06-12
 ---
 
 

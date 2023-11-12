@@ -1,7 +1,7 @@
 ---
 title: 'From Roswell to Rendlesham: Analyzing the Impact of Major UFO Incidents'
 description: 'Discover the fascinating impact of significant UFO incidents like Roswell and Rendlesham. Satiate your curiosity about these mysterious events and their consequences.'
-date: 2023-11-10
+date: 2023-06-19
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-06-19
+  modified: 2023-06-19
 ---
 
 

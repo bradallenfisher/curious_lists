@@ -1,7 +1,7 @@
 ---
 title: "12 Cat Myths Debunked: Feline Facts vs. Fiction"
 description: Satiate your curious nature by debunking common cat myths. Learn the reality behind feline facts and fiction, breaking down age-old misconceptions about cats.
-date: 2023-11-09
+date: 2023-01-07
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-01-07
+  modified: 2023-01-07
 ---
 
 

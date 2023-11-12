@@ -1,7 +1,7 @@
 ---
 title: '10 Cognitive Biases That Affect Your Everyday Decisions'
 description: 'Discover 10 intriguing cognitive biases impacting your daily choices. Explore how these fascinating quirks shape your decisions. Stay curious, gain insight.'
-date: 2023-11-10
+date: 2023-02-18
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-18
+  modified: 2023-02-18
 ---
 
 

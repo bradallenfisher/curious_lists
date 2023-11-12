@@ -2,7 +2,7 @@
 title: '40 Prominent Fields in Psychology'
 description: Curious about a career in psychology? Explore this list of 40 prominent fields to discover the diverse specializations available to you.
 featured_img: /img/logo.png
-date: 2023-09-07
+date: 2023-05-10
 tags:
  - psychology
  - industry
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-07
-  modified: 2023-08-07
+  published: 2023-05-10
+  modified: 2023-05-10
 ---
 1. **Clinical Psychology**
   - Diagnosing and treating mental, emotional, and behavioral disorders.

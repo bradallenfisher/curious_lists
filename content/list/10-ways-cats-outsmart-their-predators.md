@@ -1,7 +1,7 @@
 ---
 title: "10 Ways Cats Outsmart Their Predators"
 description: "Discover 10 cunning ways cats outsmart their predators in nature! From camouflage to agility, witness the curious tactics of these feline masters."
-date: 2023-11-09
+date: 2023-08-11
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-11
+  modified: 2023-08-11
 ---
 
 

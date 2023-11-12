@@ -1,7 +1,7 @@
 ---
 title: '5 Common Negotiation Pitfalls and How to Avoid Them'
 description: 'Discover the 5 common negotiation pitfalls and learn how to avoid them. Enhance your skills in curious and effective negotiating strategies.'
-date: 2023-11-09
+date: 2022-12-17
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-12-17
+  modified: 2022-12-17
 ---
 
 

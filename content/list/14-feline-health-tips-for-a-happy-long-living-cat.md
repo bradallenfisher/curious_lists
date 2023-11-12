@@ -1,7 +1,7 @@
 ---
 title: 14 Feline Health Tips for a Happy, Long-Living Cat
 description: Discover 14 vital feline health tips to keep your curious cat happy, healthy, and living a long life. Learn about nutrition, exercise, and regular vet check-ups.
-date: 2023-11-09
+date: 2023-05-11
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-11
+  modified: 2023-05-11
 ---
 
 

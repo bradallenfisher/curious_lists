@@ -1,7 +1,7 @@
 ---
 title: 'Navigating the World of E-commerce with Keala Kanaes Insights'
 description: 'Discover the fascinating world of e-commerce through Keala Kanaes unique insights. Gain valuable knowledge and satisfy your curious mind.'
-date: 2023-11-10
+date: 2023-01-28
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-28
+  modified: 2023-01-28
 ---
 
 

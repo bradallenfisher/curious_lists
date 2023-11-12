@@ -1,7 +1,7 @@
 ---
 title: 'The Anatomy of a Successful Online Business According to Keala Kanae'
 description: 'Discover the secrets behind a thriving online business with Keala Kanae. Satiate your curiosity as you learn the anatomy of success in the digital world.'
-date: 2023-11-10
+date: 2022-10-01
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-10-01
+  modified: 2022-10-01
 ---
 
 

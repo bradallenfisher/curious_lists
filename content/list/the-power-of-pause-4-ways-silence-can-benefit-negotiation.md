@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Pause: 4 Ways Silence Can Benefit Negotiation'
 description: 'Discover how silence can enhance your negotiation skills. Learn 4 ways to leverage the power of pause for better outcomes. Stay curious and improve your game.'
-date: 2023-11-09
+date: 2022-10-22
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-22
+  modified: 2022-10-22
 ---
 
 

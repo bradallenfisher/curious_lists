@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Mindset: 12 Quotes from Keala Kanae to Inspire You'
 description: 'Discover the incredible power of mindset with 12 inspiring quotes from Keala Kanae. Let his wisdom ignite your curiosity and transform your life.'
-date: 2023-11-10
+date: 2023-10-26
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-26
+  modified: 2023-10-26
 ---
 
 

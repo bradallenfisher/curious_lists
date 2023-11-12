@@ -1,7 +1,7 @@
 ---
 title: 'Decoding the Sky: A Comprehensive Guide to the Most Intriguing UFO Sightings'
 description: '"Discover the captivating world of UFO sightings in Decoding the Sky, a comprehensive guide that satisfies the curious mind with intriguing accounts."'
-date: 2023-11-10
+date: 2023-05-01
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-05-01
+  modified: 2023-05-01
 ---
 
 

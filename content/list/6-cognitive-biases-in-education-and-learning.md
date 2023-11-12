@@ -1,7 +1,7 @@
 ---
 title: '6 Cognitive Biases in Education and Learning'
 description: 'Discover 6 cognitive biases influencing education and learning. Understand how these biases shape our thinking and fuel our curious minds.'
-date: 2023-11-10
+date: 2023-06-21
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-06-21
+  modified: 2023-06-21
 ---
 
 

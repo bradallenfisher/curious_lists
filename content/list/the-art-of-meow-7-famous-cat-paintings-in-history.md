@@ -1,7 +1,7 @@
 ---
 title: "The Art of Meow: 7 Famous Cat Paintings in History"
 description: "Discover the Art of Meow: 7 Famous Cat Paintings in History. A treat for the curious, these masterpieces shed light on feline allure in art."
-date: 2023-11-09
+date: 2023-06-03
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-06-03
+  modified: 2023-06-03
 ---
 
 

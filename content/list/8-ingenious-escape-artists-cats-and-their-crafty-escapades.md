@@ -1,7 +1,7 @@
 ---
 title: '8 Ingenious Escape Artists: Cats and Their Crafty Escapades'
 description: 'Discover the fascinating world of curious cats and their crafty escapades in "8 Ingenious Escape Artists." Prepare to be amazed!'
-date: 2023-11-09
+date: 2023-10-23
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-23
+  modified: 2023-10-23
 ---
 
 

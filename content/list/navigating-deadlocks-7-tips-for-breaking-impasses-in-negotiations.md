@@ -1,7 +1,7 @@
 ---
 title: 'Navigating Deadlocks: 7 Tips for Breaking Impasses in Negotiations'
 description: 'Discover 7 invaluable tips for overcoming impasses in negotiations. Unlock effective strategies to navigate deadlocks and achieve successful outcomes.'
-date: 2023-11-09
+date: 2022-10-14
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-14
+  modified: 2022-10-14
 ---
 
 

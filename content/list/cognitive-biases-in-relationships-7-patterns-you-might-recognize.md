@@ -1,7 +1,7 @@
 ---
 title: 'Cognitive Biases in Relationships: 7 Patterns You Might Recognize'
 description: 'Discover 7 cognitive biases affecting relationships and explore recognizable patterns. Gain insights into how these biases impact your curious mind.'
-date: 2023-11-10
+date: 2023-06-05
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-06-05
+  modified: 2023-06-05
 ---
 
 

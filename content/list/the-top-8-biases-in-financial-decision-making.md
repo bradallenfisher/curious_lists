@@ -1,7 +1,7 @@
 ---
 title: 'The Top 8 Biases in Financial Decision-Making'
 description: 'Discover the most common biases that shape financial choices. Gain insights into human behavior and the curious influences impacting decision-making.'
-date: 2023-11-10
+date: 2023-09-10
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-10
+  modified: 2023-09-10
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Feline Agility: 8 Obstacle Courses That Test Cat Intelligence"
 description: "Discover feline agility with these 8 obstacle courses that pique your cat's curiosity and challenge their intelligence. Get ready for a playful challenge!"
-date: 2023-11-09
+date: 2023-08-22
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-22
+  modified: 2023-08-22
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Digital Diplomacy: 7 Tips for Negotiating Successfully in Virtual Meetings'
 description: 'Discover 7 practical tips for successful virtual meeting negotiations in the realm of digital diplomacy. Enhance your skills and satisfy your curious mindset.'
-date: 2023-11-09
+date: 2023-03-13
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-03-13
+  modified: 2023-03-13
 ---
 
 

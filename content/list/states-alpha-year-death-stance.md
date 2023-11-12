@@ -2,7 +2,7 @@
 title: States Listed Curiously With Death Stance
 description: Dive into a curious list detailing U.S. states by size, formation year, and death stance. Discover unique facts and figures that shape each state's identity.
 featured_img: /img/logo.png
-date: 2023-09-09
+date: 2022-12-28
 tags:
  - hypocrisy
  - legislation
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-09
-  modified: 2023-08-09
+  published: 2022-12-28
+  modified: 2022-12-28
 ---
 1. Alabama {style="counter-reset: list 0;"}
   - **Size of state:** 52,420 square miles

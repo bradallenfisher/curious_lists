@@ -1,7 +1,7 @@
 ---
 title: '5 Ways Cognitive Biases Shape Legal Outcomes'
 description: 'Discover the fascinating influence of cognitive biases on legal decisions. Explore 5 ways these biases shape outcomes, sparking curious insights into the legal system.'
-date: 2023-11-10
+date: 2023-09-12
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-12
+  modified: 2023-09-12
 ---
 
 

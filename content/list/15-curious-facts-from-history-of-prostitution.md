@@ -2,7 +2,7 @@
 title: 15 Curious Facts from the History of Prostitution
 description: Dive into a list that unveils some of the most curious aspects of the world's oldest profession. Let your curiosity guide you through history.
 featured_img: /img/logo.png
-date: 2023-10-07
+date: 2023-11-04
 tags:
  - psychology
  - profession
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-07
-  modified: 2023-10-07
+  published: 2023-11-04
+  modified: 2023-11-04
 ---
 🍆💦🦪👅👄🔥😏🤤🌭😈🤭💋🍑🍒╰⋃╯♋🌮🍌👉🏾👌🏼🤏🛏🌶╰⋃╯🦴♨️💋 {.big-code}
 

@@ -1,7 +1,7 @@
 ---
 title: 10 Non-Fiction Books Every Cat Lover Should Read
 description: Indulge your curious mind with these top 10 non-fiction books. Ideal for every cat lover, these reads offer heartwarming tales and intriguing feline facts.
-date: 2023-11-09
+date: 2023-01-29
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-01-29
+  modified: 2023-01-29
 ---
 
 

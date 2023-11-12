@@ -1,7 +1,7 @@
 ---
 title: 'Negotiating Across Cultures: 8 Essential Strategies'
 description: 'Discover key strategies for successful cross-cultural negotiations in this insightful guide. Enhance your skills and navigate diverse business environments effectively.'
-date: 2023-11-09
+date: 2023-08-04
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-04
+  modified: 2023-08-04
 ---
 
 

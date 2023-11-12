@@ -1,7 +1,7 @@
 ---
 title: 'Building Your Brand: Keala Kanaes 5 Pillars of Online Identity'
 description: 'Discover Keala Kanaes 5 Pillars of Online Identity and unlock the secrets to building your brand. A must-read for the curious entrepreneur.'
-date: 2023-11-10
+date: 2023-10-08
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-08
+  modified: 2023-10-08
 ---
 
 

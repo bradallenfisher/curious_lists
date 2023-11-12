@@ -1,7 +1,7 @@
 ---
 title: 'Crafting Win-Win Solutions: 8 Steps to Fair Negotiations'
 description: 'Discover the 8 steps to fair negotiations and learn how to craft win-win solutions. This practical guide empowers curious minds to navigate successful agreements.'
-date: 2023-11-09
+date: 2023-02-11
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-02-11
+  modified: 2023-02-11
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "5 Course Breakdowns: A Look Inside Keala Kanae's Training Programs"
 description: "Discover what Keala Kanae's Training Programs have to offer with these 5 Course Breakdowns. Feed your curious mind and get a glimpse into his teachings."
-date: 2023-11-10
+date: 2023-02-19
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-19
+  modified: 2023-02-19
 ---
 
 

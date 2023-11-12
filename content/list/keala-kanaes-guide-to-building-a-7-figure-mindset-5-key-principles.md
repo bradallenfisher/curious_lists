@@ -1,7 +1,7 @@
 ---
 title: 'Keala Kanaes Guide to Building a 7-Figure Mindset: 5 Key Principles'
 description: 'Discover the 5 key principles to develop a 7-figure mindset with Keala Kanaes guide. Unlock your potential and unleash your curious nature.'
-date: 2023-11-10
+date: 2023-07-27
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-07-27
+  modified: 2023-07-27
 ---
 
 

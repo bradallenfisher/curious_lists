@@ -1,7 +1,7 @@
 ---
 title: "20 Surprising Ways Cats Show Their Intelligence"
 description: "Discover 20 unexpected ways cats display their intelligence in fascinating ways. Uncover the curious behaviors that showcase their cleverness."
-date: 2023-11-09
+date: 2022-11-01
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-11-01
+  modified: 2022-11-01
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: 11 Cat-Friendly Plants for Your Purr-fect Indoor Garden
 description: Cultivate a purr-fect indoor garden with our guide to 11 cat-friendly plants. A perfect read for the curious plant and cat lover.
-date: 2023-11-09
+date: 2023-08-16
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-16
+  modified: 2023-08-16
 ---
 
 

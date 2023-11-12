@@ -1,7 +1,7 @@
 ---
 title: 'Keala Kanaes Top 10 Recommended Reads for Aspiring Entrepreneurs'
 description: 'Discover Keala Kanaes top 10 recommended reads that will ignite the curiosity of aspiring entrepreneurs and provide valuable insights for success.'
-date: 2023-11-10
+date: 2023-09-27
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-27
+  modified: 2023-09-27
 ---
 
 

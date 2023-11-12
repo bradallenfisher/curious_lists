@@ -1,7 +1,7 @@
 ---
 title: 'The Blueprint of Success: Keala Kanaes 7 Habits for Prosperity'
 description: 'Discover Keala Kanaes proven 7 habits for prosperity in "The Blueprint of Success." Ignite your curious mind with actionable strategies for success.'
-date: 2023-11-10
+date: 2022-11-13
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-11-13
+  modified: 2022-11-13
 ---
 
 

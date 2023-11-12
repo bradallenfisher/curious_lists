@@ -1,7 +1,7 @@
 ---
 title: 'The Influence of Cognitive Bias on Artistic Appreciation: 9 Insights'
 description: 'Discover how cognitive biases shape our perception of art and gain 9 intriguing insights into the curious world of artistic appreciation.'
-date: 2023-11-10
+date: 2023-01-25
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-25
+  modified: 2023-01-25
 ---
 
 

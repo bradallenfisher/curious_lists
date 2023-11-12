@@ -1,7 +1,7 @@
 ---
 title: "Feline Masters of Stealth: 9 Techniques Cats Use to Go Unnoticed"
 description: "Discover the hidden secrets of feline masters as we unveil 9 astonishing techniques cats employ to remain unnoticed, leaving you utterly curious."
-date: 2023-11-09
+date: 2023-10-31
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-31
+  modified: 2023-10-31
 ---
 
 

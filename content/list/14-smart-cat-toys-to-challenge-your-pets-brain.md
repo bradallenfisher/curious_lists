@@ -1,7 +1,7 @@
 ---
 title: "14 Smart Cat Toys to Challenge Your Pet's Brain"
 description: "Discover 14 smart cat toys that challenge your pet's curious nature. Keep your feline friend entertained and engaged with these brain-stimulating playthings."
-date: 2023-11-09
+date: 2022-10-17
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-17
+  modified: 2022-10-17
 ---
 
 

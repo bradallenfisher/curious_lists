@@ -1,7 +1,7 @@
 ---
 title: "Feline Royalty: 9 Cats Who Lived in Palaces"
 description: Discover the curious tales of feline royalty, featuring 9 extraordinary cats who have graced the halls of palaces worldwide.
-date: 2023-11-09
+date: 2023-02-20
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-02-20
+  modified: 2023-02-20
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Mastering the Counteroffer: 5 Techniques for Gaining the Upper Hand'
 description: 'Discover 5 powerful techniques to gain the upper hand in counteroffers. Master the art of negotiation and leave your employer curious for more.'
-date: 2023-11-09
+date: 2023-05-24
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-24
+  modified: 2023-05-24
 ---
 
 

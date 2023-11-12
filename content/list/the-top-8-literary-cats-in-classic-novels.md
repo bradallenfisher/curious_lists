@@ -1,7 +1,7 @@
 ---
 title: The Top 8 Literary Cats in Classic Novels
 description: Immerse yourself in the world of classic novels with our top 8 literary cats. Satisfy your curious mind with these compelling feline characters.
-date: 2023-11-09
+date: 2023-10-12
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-12
+  modified: 2023-10-12
 ---
 
 

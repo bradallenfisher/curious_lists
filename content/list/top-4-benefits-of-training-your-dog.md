@@ -2,7 +2,7 @@
 title: Top 4 Benefits of Training Your Dog
 description: Curious about the perks of dog training? Learn the top 4 benefits that can enhance your bond, ensure safety, improve behavior, and boost canine confidence.
 featured_img: /img/logo.png
-date: 2023-09-07
+date: 2022-11-18
 tags:
   - dogs
   - reasons
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-07
-  modified: 2023-08-07
+  published: 2022-11-18
+  modified: 2022-11-18
 ---
 
 1. Strengthens the bond between you and your pet. 

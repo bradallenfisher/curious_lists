@@ -1,7 +1,7 @@
 ---
 title: "10 Success Stories Inspired by Keala Kanae's Coaching"
 description: "Discover 10 incredible success stories that were sparked by Keala Kanae's coaching. Be inspired by the transformative journeys of curious individuals."
-date: 2023-11-10
+date: 2023-10-13
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-13
+  modified: 2023-10-13
 ---
 
 

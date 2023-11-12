@@ -1,7 +1,7 @@
 ---
 title: 'The Entrepreneur's Toolkit: 10 Essentials from Keala Kanaes Advice'
 description: 'Discover the essential tools for aspiring entrepreneurs! Keala Kanaes advice provides curious minds with a practical toolkit for success.'
-date: 2023-11-10
+date: 2023-01-05
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-05
+  modified: 2023-01-05
 ---
 
 

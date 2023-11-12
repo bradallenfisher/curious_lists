@@ -1,7 +1,7 @@
 ---
 title: 'The Intersection of Spirituality and Science: 6 Groundbreaking Insights'
 description: 'Discover the intriguing connection between spirituality and science as this enlightening book presents 6 revolutionary insights that will leave you curious for more.'
-date: 2023-11-10
+date: 2023-04-24
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-04-24
+  modified: 2023-04-24
 ---
 
 

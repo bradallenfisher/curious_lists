@@ -1,7 +1,7 @@
 ---
 title: 'The Pros and Cons of Fast and Slow Thinking: Top 8 Insights'
 description: 'Discover the top 8 insights into the advantages and drawbacks of fast and slow thinking, intriguingly exploring the pros and cons of each approach.'
-date: 2023-11-12
+date: 2022-11-29
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2022-11-29
+  modified: 2022-11-29
 ---
 
 

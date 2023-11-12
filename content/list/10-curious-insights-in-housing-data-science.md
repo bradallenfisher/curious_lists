@@ -2,7 +2,7 @@
 title: 10 Curious Insights in Housing Data Science
 description: Ignite your curiosity with these ten insights in Data Science for Housing, showcasing how data reshapes our understanding of urban spaces.
 featured_img: /img/logo.png
-date: 2023-10-11
+date: 2022-12-12
 tags:
  - people
  - psychology
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-11
-  modified: 2023-10-11
+  published: 2022-12-12
+  modified: 2022-12-12
 ---
 👩🏻‍💻📉📈📶📉🏘️👨‍💻🧑🏻‍💻👩🏻‍💻👨🏽‍💻👩‍💻👍🏻 {.big-code}
 

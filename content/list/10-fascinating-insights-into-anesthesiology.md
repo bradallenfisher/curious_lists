@@ -2,7 +2,7 @@
 title: 10 Fascinating Insights into Anesthesiology!
 description: Dive into the world of anesthesiology and satisfy your curious mind with these intriguing insights about the profession.
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2023-08-15
 tags:
  - profession
  - medical
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2023-08-15
+  modified: 2023-08-15
 ---
 💉😴🩺⚕💤🫀👩🏻‍⚕️💊🫁🏥💉😴🩺⚕💤🫀👩🏻‍⚕️💊🫁 {.big-code}
 

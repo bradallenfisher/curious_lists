@@ -1,7 +1,7 @@
 ---
 title: 'The Impact of Cognitive Bias on Environmental Decision-Making: 8 Examples'
 description: 'Discover how cognitive biases affect environmental decision-making with 8 intriguing examples. Explore the surprising ways biases influence our choices.'
-date: 2023-11-10
+date: 2023-01-17
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-17
+  modified: 2023-01-17
 ---
 
 

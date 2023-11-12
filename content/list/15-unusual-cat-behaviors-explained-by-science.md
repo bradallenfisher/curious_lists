@@ -1,7 +1,7 @@
 ---
 title: 15 Unusual Cat Behaviors Explained by Science
 description: Discover the science behind 15 unusual cat behaviors that leave even the most curious cat owners baffled and intrigued.
-date: 2023-11-09
+date: 2023-10-31
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-31
+  modified: 2023-10-31
 ---
 
 

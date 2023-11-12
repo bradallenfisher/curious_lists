@@ -1,7 +1,7 @@
 ---
 title: "The Hunt: 7 Innovative Tactics Cats Use"
 description: "Discover the fascinating world of feline strategies! The Hunt explores 7 innovative tactics cats use to catch their prey, leaving you curious for more."
-date: 2023-11-09
+date: 2023-06-26
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-06-26
+  modified: 2023-06-26
 ---
 
 

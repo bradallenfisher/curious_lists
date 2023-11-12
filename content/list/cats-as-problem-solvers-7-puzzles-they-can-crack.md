@@ -1,7 +1,7 @@
 ---
 title: "Cats as Problem Solvers: 7 Puzzles They Can Crack"
 description: "Discover how curious cats can solve puzzles in Cats as Problem Solvers 7 mind-bending challenges that will amaze and entertain feline enthusiasts."
-date: 2023-11-09
+date: 2023-10-05
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-05
+  modified: 2023-10-05
 ---
 
 

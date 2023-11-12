@@ -1,7 +1,7 @@
 ---
 title: '7 Non-Verbal Cues That Can Make or Break a Deal'
 description: 'Discover the subtle non-verbal cues that hold the key to successful deals. Learn how these curious signals can make or break your next negotiation.'
-date: 2023-11-09
+date: 2023-01-29
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-01-29
+  modified: 2023-01-29
 ---
 
 

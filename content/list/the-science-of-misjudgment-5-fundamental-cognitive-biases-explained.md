@@ -1,7 +1,7 @@
 ---
 title: 'The Science of Misjudgment: 5 Fundamental Cognitive Biases Explained'
 description: 'Discover the intriguing science behind 5 cognitive biases that shape our judgments. Uncover how these biases affect decision-making in surprising ways.'
-date: 2023-11-10
+date: 2023-02-20
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-20
+  modified: 2023-02-20
 ---
 
 

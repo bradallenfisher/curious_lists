@@ -1,7 +1,7 @@
 ---
 title: 'The Science of the Unexplained: How Modern Technology is Changing UFO Research'
 description: 'Discover how modern technology is revolutionizing UFO research. Explore the fascinating intersection of science and the unexplained in this intriguing read.'
-date: 2023-11-10
+date: 2023-09-23
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-23
+  modified: 2023-09-23
 ---
 
 

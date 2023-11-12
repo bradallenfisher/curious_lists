@@ -1,7 +1,7 @@
 ---
 title: "Cats in Command: 5 Times Felines Trained Their Owners"
 description: 'Discover the fascinating world of feline power dynamics in "Cats in Command: 5 Times Curious Cats Trained Their Owners." A captivating read for cat lovers!'
-date: 2023-11-09
+date: 2023-10-29
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-29
+  modified: 2023-10-29
 ---
 
 

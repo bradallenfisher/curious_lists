@@ -1,7 +1,7 @@
 ---
 title: "Cats vs. Technology: 10 Amusing Encounters"
 description: 'Discover hilarious and unexpected interactions between cats and technology in Cats vs. Technology: 10 Amusing Encounters. Prepare to be intrigued and amazed!'
-date: 2023-11-09
+date: 2023-04-29
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-04-29
+  modified: 2023-04-29
 ---
 
 

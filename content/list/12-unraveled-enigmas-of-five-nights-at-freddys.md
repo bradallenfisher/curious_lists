@@ -2,7 +2,7 @@
 title: 12 Unraveled Enigmas of Five Nights at Freddy's
 description: Stir your curiosity with these 12 mysteries surrounding the eerie history, bizarre characters, and cryptic references in Five Nights at Freddy's.
 featured_img: /img/logo.png
-date: 2023-10-24
+date: 2023-01-11
 tags:
  - fnaf
  - games
@@ -25,8 +25,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-24
-  modified: 2023-10-24
+  published: 2023-01-11
+  modified: 2023-01-11
 ---
 
           ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜

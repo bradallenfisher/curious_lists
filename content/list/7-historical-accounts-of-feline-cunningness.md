@@ -1,7 +1,7 @@
 ---
 title: "7 Historical Accounts of Feline Cunningness"
 description: "Discover the intriguing and sly nature of felines through captivating historical accounts showcasing their curious cunningness and clever escapades."
-date: 2023-11-09
+date: 2023-07-03
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-07-03
+  modified: 2023-07-03
 ---
 
 

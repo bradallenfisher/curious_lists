@@ -1,7 +1,7 @@
 ---
 title: 'Keala Kanaes Approach to Overcoming Adversity: 6 Inspiring Tips'
 description: 'Discover Keala Kanaes 6 inspiring tips for conquering challenges head-on. Uncover the approach to overcoming adversity that will leave you curious for more.'
-date: 2023-11-10
+date: 2023-09-11
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-11
+  modified: 2023-09-11
 ---
 
 

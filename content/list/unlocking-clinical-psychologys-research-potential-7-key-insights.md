@@ -2,7 +2,7 @@
 title: "Unlocking Clinical Psychology's Research Potential: 7 Key Insights"
 description: Discover how this field is uniquely positioned to bridge therapeutic expertise with groundbreaking research.
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2023-10-01
 tags:
  - psychology
  - profession
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2023-10-01
+  modified: 2023-10-01
 ---
 🧠💬📓✏️🧠💬📓✏️🧠💬📓✏️🧠💬📓✏️🧠💬📓 {.big-code}
 

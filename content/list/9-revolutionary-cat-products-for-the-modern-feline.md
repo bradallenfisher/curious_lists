@@ -1,7 +1,7 @@
 ---
 title: 9 Revolutionary Cat Products for the Modern Feline
 description: Discover 9 revolutionary cat products for the modern feline, designed to satisfy the curious and playful nature of your furry friend.
-date: 2023-11-09
+date: 2023-04-16
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-04-16
+  modified: 2023-04-16
 ---
 
 

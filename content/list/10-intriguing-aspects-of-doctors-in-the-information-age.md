@@ -2,7 +2,7 @@
 title: 10 Intriguing Aspects of Doctors in the Information Age
 description: Dive into a curious exploration of how doctors navigate the challenges and opportunities presented by the Information Age.
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2023-03-15
 tags:
  - profession
  - tech
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2023-03-15
+  modified: 2023-03-15
 ---
 🥼🥼🥼🥼🥼🥼👩🏻‍⚕️🩺🔪\`❤️‍🩹💉🦠👩‍⚕🧬🩺💉 🩸💊 🩹 🩺 🚪🛏👨🏻‍🔬👨🏼‍⚕️👨🏽‍⚕️🧠🥼🥼🥼🥼🥼🥼 {.big-code}
 

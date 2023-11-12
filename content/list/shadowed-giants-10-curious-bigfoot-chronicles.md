@@ -2,7 +2,7 @@
 title: 'Shadowed Giants: 10 Curious Bigfoot Chronicles'
 description: Dive into the enigmatic world of Bigfoot with these 10 curious chronicles. Unravel the mystery that has captivated imaginations for centuries.
 featured_img: /img/logo.png
-date: 2023-10-11
+date: 2023-06-30
 tags:
  - people
  - psychology
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-11
-  modified: 2023-10-11
+  published: 2023-06-30
+  modified: 2023-06-30
 ---
 🐻🌲🤔👣🦧🔎🏞️📸📏🦶🐻🌲🤔👣🦧🔎🏞️📸📏🦶🐻🌲🤔👣🦧🔎🏞️📸📏🦶 {.big-code}
 

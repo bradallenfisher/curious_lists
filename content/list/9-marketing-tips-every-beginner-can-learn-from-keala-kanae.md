@@ -1,7 +1,7 @@
 ---
 title: '9 Marketing Tips Every Beginner Can Learn from Keala Kanae'
 description: 'Discover 9 essential marketing tips for beginners from Keala Kanae. Gain insights and satisfy your curious mind to excel in the marketing world.'
-date: 2023-11-10
+date: 2023-01-10
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-10
+  modified: 2023-01-10
 ---
 
 

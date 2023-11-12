@@ -1,7 +1,7 @@
 ---
 title: test
 description: test
-date: 2023-11-09
+date: 2023-10-26
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-26
+  modified: 2023-10-26
 ---
 
 1. The Midnight Mew Alert {style="counter-reset: list 0;"}

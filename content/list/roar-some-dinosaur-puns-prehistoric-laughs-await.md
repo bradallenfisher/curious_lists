@@ -2,7 +2,7 @@
 title: 'Roar-some Dinosaur Puns: Prehistoric Laughs Await!'
 description: Ignite your curiosity with these dinosaur puns! From clever quips to prehistoric humor, each pun promises a roar of laughter.
 featured_img: /img/logo.png
-date: 2023-10-24
+date: 2023-02-15
 tags:
  - funny
  - puns
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-24
-  modified: 2023-10-24
+  published: 2023-02-15
+  modified: 2023-02-15
 ---
 🦕🦕🦖🐉🦕🦕🦖🐉🦕🦕🦖🐉🦕🦕🦖🐉 {.big-code}
 1. "Why can't you hear a pterodactyl use the bathroom? Because the 'P' is silent!" {style="counter-reset: list 0;"}

@@ -2,7 +2,7 @@
 title: 'List of U.S. Presidents'
 description: Comprehensive list of U.S. Presidents, curated for the curious historian. Political affiliation, Birth place, and other offices served round out this curious list.
 featured_img: /img/logo.png
-date: 2023-09-08
+date: 2023-07-17
 tags:
  - travel
  - vacation
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-08
-  modified: 2023-09-08
+  published: 2023-07-17
+  modified: 2023-07-17
 ---
 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 {.big-code}
 

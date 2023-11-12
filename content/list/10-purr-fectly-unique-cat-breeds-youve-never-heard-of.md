@@ -1,7 +1,7 @@
 ---
 title: 10 Purr-fectly Unique Cat Breeds You've Never Heard Of
 description: Discover 10 unique cat breeds that will spark your curiosity. From unusual fur patterns to distinct personalities, these felines are truly special.
-date: 2023-11-09
+date: 2023-05-10
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-10
+  modified: 2023-05-10
 ---
 
 

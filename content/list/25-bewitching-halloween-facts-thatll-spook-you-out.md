@@ -2,7 +2,7 @@
 title: 25 Bewitching Halloween Facts That'll Spook You Out
 description: Dive into a curious journey through Halloween's history and lesser-known facts. From its ancient origins to modern traditions, there's more to this spooky holiday than meets the eye.
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2023-03-24
 tags:
  - holiday
  - history
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2023-03-24
+  modified: 2023-03-24
 ---
 👻🕯🎃🕸🦇⛓🖤🕷🥀🪦🐈‍⬛💀🌙⚰🍁🕸️ {.big-code}
 

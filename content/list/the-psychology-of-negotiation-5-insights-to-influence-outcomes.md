@@ -1,7 +1,7 @@
 ---
 title: 'The Psychology of Negotiation: 5 Insights to Influence Outcomes'
 description: 'Discover the intriguing Psychology of Negotiation and gain 5 valuable insights to shape outcomes. Feed your curious mind and become a skilled influencer.'
-date: 2023-11-09
+date: 2023-05-31
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-31
+  modified: 2023-05-31
 ---
 
 

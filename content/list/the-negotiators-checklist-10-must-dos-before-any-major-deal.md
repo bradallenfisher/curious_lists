@@ -1,7 +1,7 @@
 ---
 title: 'The Negotiator's Checklist: 10 Must-Dos Before Any Major Deal'
 description: 'Discover the essential 10-step checklist for negotiators to ensure success in major deals. A valuable resource for curious minds in the art of negotiation.'
-date: 2023-11-09
+date: 2023-08-30
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-30
+  modified: 2023-08-30
 ---
 
 

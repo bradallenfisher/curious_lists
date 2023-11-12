@@ -1,7 +1,7 @@
 ---
 title: 'From Good to Great: 5 Negotiation Habits of Highly Effective People'
 description: 'Discover the secrets to becoming a highly effective negotiator with "From Good to Great." Master the curious habits that lead to negotiation success.'
-date: 2023-11-09
+date: 2023-08-18
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-18
+  modified: 2023-08-18
 ---
 
 

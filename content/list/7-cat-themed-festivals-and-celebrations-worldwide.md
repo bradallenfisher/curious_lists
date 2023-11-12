@@ -1,7 +1,7 @@
 ---
 title: 7 Cat-Themed Festivals and Celebrations Worldwide
 description: Discover 7 cat-themed festivals and celebrations worldwide. Perfect for curious cat lovers seeking unique, feline-inspired cultural experiences.
-date: 2023-11-09
+date: 2022-12-31
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-12-31
+  modified: 2022-12-31
 ---
 
 

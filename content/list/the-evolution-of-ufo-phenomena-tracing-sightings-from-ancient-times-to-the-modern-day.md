@@ -1,7 +1,7 @@
 ---
 title: 'The Evolution of UFO Phenomena: Tracing Sightings from Ancient Times to the Modern Day'
 description: 'Discover the intriguing history of UFO sightings, spanning from ancient times to the present day, as this book traces the evolution of the phenomena.'
-date: 2023-11-10
+date: 2023-08-12
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-08-12
+  modified: 2023-08-12
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "15 types of cats: Weird ones too..."
 description: Discover a world of intriguing felines, from the adorable Maine Coon to the hairless Sphynx, the curious Bengal to the peculiar Manx. We've got all cat breeds!
-date: 2023-11-09
+date: 2022-10-30
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-30
+  modified: 2022-10-30
 ---
 
 

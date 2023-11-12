@@ -1,7 +1,7 @@
 ---
 title: "The Secret Lives of Cats: 10 Insights from Feline Psychology"
 description: Get to know your feline friends better with our curious insights from cat psychology. Discover the secret lives of cats and understand their unique behaviors.
-date: 2023-11-09
+date: 2023-05-28
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-28
+  modified: 2023-05-28
 ---
 
 

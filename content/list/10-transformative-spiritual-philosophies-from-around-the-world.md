@@ -1,7 +1,7 @@
 ---
 title: '10 Transformative Spiritual Philosophies from Around the World'
 description: 'Discover 10 profound spiritual philosophies that offer transformative insights and inspire curiosity, originating from diverse cultures worldwide.'
-date: 2023-11-10
+date: 2023-02-16
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-16
+  modified: 2023-02-16
 ---
 
 

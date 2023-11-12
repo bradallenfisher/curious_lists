@@ -1,7 +1,7 @@
 ---
 title: '9 Cognitive Biases in Healthcare Decisions You Should Know'
 description: 'Discover 9 cognitive biases shaping healthcare decisions. Uncover how these biases influence choices, affecting patient outcomes. Stay curious, stay informed!'
-date: 2023-11-10
+date: 2023-09-01
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-01
+  modified: 2023-09-01
 ---
 
 

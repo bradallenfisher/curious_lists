@@ -1,7 +1,7 @@
 ---
 title: '7 Ancient Spiritual Practices and Their Modern Implications'
 description: 'Discover the transformative power of ancient spiritual practices and their relevance in today''s world. Unlock new perspectives and satisfy your curious mind.'
-date: 2023-11-10
+date: 2023-10-22
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-22
+  modified: 2023-10-22
 ---
 
 

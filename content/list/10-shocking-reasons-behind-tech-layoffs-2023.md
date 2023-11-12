@@ -2,7 +2,7 @@
 title: 10 Unsettling Reasons Behind Tech Layoffs in 2023
 description: Uncover the reasons behind the surge in tech layoffs in 2023.
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2022-10-25
 tags:
  - industry
  - tech
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2022-10-25
+  modified: 2022-10-25
 ---
 🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐👨🏻‍💻🌐 {.big-code}
 

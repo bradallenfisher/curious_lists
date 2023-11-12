@@ -1,7 +1,7 @@
 ---
 title: 'Embracing the Mystical: Understanding and Experiencing Spiritual Mysticism'
 description: 'Discover the enigmatic realm of spiritual mysticism in "Embracing the Mystical." A captivating guide for the curious seeking understanding and experience.'
-date: 2023-11-10
+date: 2022-10-18
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-10-18
+  modified: 2022-10-18
 ---
 
 

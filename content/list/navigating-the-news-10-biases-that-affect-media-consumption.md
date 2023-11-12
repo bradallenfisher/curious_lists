@@ -1,7 +1,7 @@
 ---
 title: 'Navigating the News: 10 Biases That Affect Media Consumption'
 description: 'Discover the 10 common biases influencing media consumption. Enhance your understanding of news and become a more curious and informed consumer.'
-date: 2023-11-10
+date: 2023-02-20
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-20
+  modified: 2023-02-20
 ---
 
 

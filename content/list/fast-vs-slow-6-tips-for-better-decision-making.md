@@ -1,7 +1,7 @@
 ---
 title: 'Fast vs Slow: 6 Tips for Better Decision Making'
 description: 'Discover 6 tips to improve decision-making and embrace a curious mindset. Learn how to weigh options effectively for faster, better outcomes.'
-date: 2023-11-12
+date: 2023-04-05
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-04-05
+  modified: 2023-04-05
 ---
 
 

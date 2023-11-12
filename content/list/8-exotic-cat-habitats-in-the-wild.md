@@ -1,7 +1,7 @@
 ---
 title: 8 Exotic Cat Habitats in the Wild
 description: Discover the fascinating world of exotic wild cats in their natural habitats. For the curious, learn about their unique behaviors, survival tactics and more.
-date: 2023-11-09
+date: 2023-01-27
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-01-27
+  modified: 2023-01-27
 ---
 
 

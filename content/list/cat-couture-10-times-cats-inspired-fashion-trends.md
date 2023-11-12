@@ -1,7 +1,7 @@
 ---
 title: "Cat Couture: 10 Times Cats Inspired Fashion Trends"
 description: "Discover how the curious world of feline charm has inspired major fashion trends. Dive into "Cat Couture: 10 Times Cats Inspired Fashion Trends" now."
-date: 2023-11-09
+date: 2022-12-15
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-12-15
+  modified: 2022-12-15
 ---
 
 

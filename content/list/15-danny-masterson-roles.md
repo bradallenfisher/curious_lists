@@ -2,7 +2,7 @@
 title: 15 Danny Masterson Roles
 description: Danny Masterson, known for his roles in popular TV shows, faces significant media attention due to his ongoing trial. Stay updated on the latest news.
 featured_img: /img/logo.png
-date: 2023-09-07
+date: 2023-04-27
 tags:
  - celebrity
  - tv
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-07
-  modified: 2023-08-07
+  published: 2023-04-27
+  modified: 2023-04-27
 ---
 1. "That '70s Show" {style="counter-reset: list 0;"}
   - **tv shows:** A popular sitcom that aired from 1998 to 2006.

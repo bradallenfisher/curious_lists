@@ -1,7 +1,7 @@
 ---
 title: 'Cognitive Bias in the Workplace: 12 Types Affecting Your Career'
 description: 'Discover 12 prevalent cognitive biases influencing your professional growth. Understand how these biases impact your career and stay curious for self-improvement.'
-date: 2023-11-10
+date: 2022-12-21
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-12-21
+  modified: 2022-12-21
 ---
 
 

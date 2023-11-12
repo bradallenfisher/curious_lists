@@ -2,7 +2,7 @@
 title: 10 Facts About Keto Apple Cider Vinegar Gummies
 description: Curious about the benefits and drawbacks of Keto Apple Cider Vinegar Gummies? Dive into our comprehensive list to discover their impact on health and more.
 featured_img: /img/logo.png
-date: 2023-09-09
+date: 2023-06-22
 tags:
  - supplements
  - health
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-09
-  modified: 2023-08-09
+  published: 2023-06-22
+  modified: 2023-06-22
 ---
 &#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;🥃&#127822;{.big-code}
 1. Weight Loss Benefits {style="counter-reset: list 0;"}

@@ -1,7 +1,7 @@
 ---
 title: "9 Clever Cat Breeds Known for Their Smarts"
 description: "Discover 9 clever cat breeds celebrated for their intelligence. From the curious Siamese to the sly Maine Coon, meet these brainy feline companions."
-date: 2023-11-09
+date: 2023-05-23
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-23
+  modified: 2023-05-23
 ---
 
 

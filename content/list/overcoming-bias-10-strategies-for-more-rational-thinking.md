@@ -1,7 +1,7 @@
 ---
 title: 'Overcoming Bias: 10 Strategies for More Rational Thinking'
 description: 'Discover 10 strategies to cultivate rational thinking, free from biases. This insightful book empowers curious minds to make more informed decisions.'
-date: 2023-11-10
+date: 2023-07-20
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-07-20
+  modified: 2023-07-20
 ---
 
 

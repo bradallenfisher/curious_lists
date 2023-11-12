@@ -1,7 +1,7 @@
 ---
 title: 'The Journey Within: 9 Steps to Personal Spiritual Growth'
 description: 'Embark on a transformative path to spiritual growth with "The Journey Within". Discover 9 essential steps that nurture curiosity and personal development.'
-date: 2023-11-10
+date: 2023-04-19
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-04-19
+  modified: 2023-04-19
 ---
 
 

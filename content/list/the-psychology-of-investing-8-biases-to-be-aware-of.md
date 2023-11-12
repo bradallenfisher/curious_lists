@@ -1,7 +1,7 @@
 ---
 title: 'The Psychology of Investing: 8 Biases to Be Aware Of'
 description: 'Discover 8 common biases that influence our investment decisions. Understand how psychology shapes your choices in this intriguing exploration of investing.'
-date: 2023-11-10
+date: 2023-08-02
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-08-02
+  modified: 2023-08-02
 ---
 
 

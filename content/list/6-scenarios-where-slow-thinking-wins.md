@@ -1,7 +1,7 @@
 ---
 title: '6 Scenarios Where Slow Thinking Wins'
 description: 'Discover 6 real-life situations where patient and thoughtful analysis triumphs. Curious minds, slow thinking – the key to wiser decisions.'
-date: 2023-11-12
+date: 2023-02-24
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-02-24
+  modified: 2023-02-24
 ---
 
 

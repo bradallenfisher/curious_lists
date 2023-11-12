@@ -2,7 +2,7 @@
 title: 'Why Orthodontists Smile All the Way to the Bank: 7 Insights'
 description: Hopefully this list will satisfy your curious mind about why orthodontists are among the top earners in the medical field!
 featured_img: /img/logo.png
-date: 2023-10-06
+date: 2022-10-24
 tags:
  - dental
  - profession
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-06
-  modified: 2023-10-06
+  published: 2022-10-24
+  modified: 2022-10-24
 ---
 🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷 {.big-code}
 

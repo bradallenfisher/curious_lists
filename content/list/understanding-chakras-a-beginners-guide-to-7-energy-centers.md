@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Chakras: A Beginner''s Guide to 7 Energy Centers'
 description: 'Discover the fascinating world of chakras with this beginner''s guide. Learn about the 7 energy centers and satisfy your curious mind.'
-date: 2023-11-10
+date: 2023-09-06
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-06
+  modified: 2023-09-06
 ---
 
 

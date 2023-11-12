@@ -2,7 +2,7 @@
 title: 10 Unseen Signals of Dark Psychology Tactics
 description: Discover the unseen signals and learn the nuances behind dark psychological tactics.
 featured_img: /img/logo.png
-date: 2023-10-11
+date: 2023-04-09
 tags:
  - people
  - psychology
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-11
-  modified: 2023-10-11
+  published: 2023-04-09
+  modified: 2023-04-09
 ---
 🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭 {.big-code}
 

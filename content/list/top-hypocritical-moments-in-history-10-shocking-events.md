@@ -2,7 +2,7 @@
 title: Top Hypocritical Moments in History
 description: Dive into history's intriguing twists with these hypocritical moments. Get curious and uncover the stories behind the facades.
 featured_img: /img/logo.png
-date: 2023-09-09
+date: 2023-10-30
 tags:
  - hypocrisy
  - history
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-09
-  modified: 2023-08-09
+  published: 2023-10-30
+  modified: 2023-10-30
 ---
 
 1. The Treaty of Tordesillas (1494) {style="counter-reset: list 0;"}

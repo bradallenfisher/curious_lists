@@ -1,7 +1,7 @@
 ---
 title: 'Keala Kanaes Top 8 Strategies for Affiliate Marketing Mastery'
 description: 'Discover Keala Kanaes expert tips to become an affiliate marketing master. Unleash your curiosity and unlock the secrets to success in this field.'
-date: 2023-11-10
+date: 2023-02-24
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-02-24
+  modified: 2023-02-24
 ---
 
 

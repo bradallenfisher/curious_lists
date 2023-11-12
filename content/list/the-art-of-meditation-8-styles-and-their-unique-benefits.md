@@ -1,7 +1,7 @@
 ---
 title: 'The Art of Meditation: 8 Styles and Their Unique Benefits'
 description: 'Discover the transformative power of meditation with this guide exploring 8 unique styles and their benefits. Perfect for the curious mind seeking inner peace.'
-date: 2023-11-10
+date: 2023-07-20
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-07-20
+  modified: 2023-07-20
 ---
 
 

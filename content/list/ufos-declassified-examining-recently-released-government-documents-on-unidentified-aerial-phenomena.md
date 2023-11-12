@@ -1,7 +1,7 @@
 ---
 title: 'UFOs Declassified: Examining Recently Released Government Documents on Unidentified Aerial Phenomena'
 description: 'Discover the latest revelations on UFOs! Analyzing newly disclosed government files, this series investigates unexplained aerial phenomena that pique our curiosity.'
-date: 2023-11-10
+date: 2023-01-08
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-08
+  modified: 2023-01-08
 ---
 
 

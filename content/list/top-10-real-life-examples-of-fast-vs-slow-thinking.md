@@ -1,7 +1,7 @@
 ---
 title: 'Top 10 Real-Life Examples of Fast vs Slow Thinking'
 description: 'Discover intriguing real-life examples that showcase the contrasting powers of fast and slow thinking. Feed your curious mind with fascinating insights!'
-date: 2023-11-12
+date: 2023-08-18
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-08-18
+  modified: 2023-08-18
 ---
 
 

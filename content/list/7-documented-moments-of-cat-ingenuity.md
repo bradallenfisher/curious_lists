@@ -1,7 +1,7 @@
 ---
 title: "7 Documented Moments of Cat Ingenuity"
 description: "Discover 7 incredible moments showcasing cats' cleverness and resourcefulness. Get ready to be amazed by their curious and innovative behaviors!"
-date: 2023-11-09
+date: 2022-12-08
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-12-08
+  modified: 2022-12-08
 ---
 
 

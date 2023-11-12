@@ -1,7 +1,7 @@
 ---
 title: 'Negotiating Under Pressure: 6 Tactics for High-Stakes Situations'
 description: 'Learn 6 powerful tactics to navigate high-stakes negotiations with confidence. Discover effective strategies to thrive under pressure and achieve your goals.'
-date: 2023-11-09
+date: 2023-07-13
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-07-13
+  modified: 2023-07-13
 ---
 
 

@@ -2,7 +2,7 @@
 title: 5 Must-Know Facts About Keala Kanae!
 description: Discover the top 5 essential facts about Keala Kanae, the mastermind behind Fullstaq Marketer. Dive into his journey, beliefs, and vision for affiliate marketing.
 featured_img: /img/logo.png
-date: 2023-09-09
+date: 2022-10-28
 tags:
  - marketer
  - persona
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-09
-  modified: 2023-08-09
+  published: 2022-10-28
+  modified: 2022-10-28
 ---
 ### "Top 5 Astonishing Facts About Keala Kanae You Won't Believe!"
 

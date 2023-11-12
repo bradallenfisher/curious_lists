@@ -1,7 +1,7 @@
 ---
 title: 'Negotiating for the Long Term: 5 Strategies for Sustainable Agreements'
 description: 'Discover 5 strategies to negotiate for sustainable agreements in the long term. Enhance your negotiation skills and achieve win-win outcomes. Be curious!'
-date: 2023-11-09
+date: 2023-03-26
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-03-26
+  modified: 2023-03-26
 ---
 
 

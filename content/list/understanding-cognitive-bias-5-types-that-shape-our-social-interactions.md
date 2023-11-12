@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Cognitive Bias: 5 Types That Shape Our Social Interactions'
 description: 'Discover the 5 cognitive biases influencing our social interactions. This insightful article helps you understand how biases shape our perceptions.'
-date: 2023-11-10
+date: 2022-11-30
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-11-30
+  modified: 2022-11-30
 ---
 
 

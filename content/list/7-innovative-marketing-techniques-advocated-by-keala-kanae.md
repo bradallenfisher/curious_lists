@@ -1,7 +1,7 @@
 ---
 title: '7 Innovative Marketing Techniques Advocated by Keala Kanae'
 description: 'Discover 7 groundbreaking marketing techniques endorsed by Keala Kanae that will pique the curiosity of any business owner looking for an edge.'
-date: 2023-11-10
+date: 2022-12-24
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-12-24
+  modified: 2022-12-24
 ---
 
 

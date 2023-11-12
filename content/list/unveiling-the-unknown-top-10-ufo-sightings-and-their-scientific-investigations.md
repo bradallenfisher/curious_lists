@@ -1,7 +1,7 @@
 ---
 title: 'Unveiling the Unknown: Top 10 UFO Sightings and Their Scientific Investigations'
 description: 'Discover the scientific investigations behind the top 10 UFO sightings, satisfying the curious minds seeking answers to the unknown.'
-date: 2023-11-10
+date: 2022-10-13
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-10-13
+  modified: 2022-10-13
 ---
 
 

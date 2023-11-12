@@ -1,7 +1,7 @@
 ---
 title: "7 Key Lessons from Keala Kanae's Entrepreneurial Journey"
 description: "Discover the valuable insights gained from Keala Kanae's entrepreneurial journey. Learn 7 key lessons that will ignite your curious mind and drive success."
-date: 2023-11-10
+date: 2023-05-16
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-05-16
+  modified: 2023-05-16
 ---
 
 

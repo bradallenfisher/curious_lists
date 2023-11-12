@@ -1,7 +1,7 @@
 ---
 title: '5 Brain Exercises to Improve Slow Thinking Skills'
 description: 'Boost your cognitive abilities with these 5 brain exercises designed to enhance slow thinking skills. Sharpen your mind and satisfy your curiosity.'
-date: 2023-11-12
+date: 2022-10-17
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2022-10-17
+  modified: 2022-10-17
 ---
 
 

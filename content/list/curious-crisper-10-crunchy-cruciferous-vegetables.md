@@ -2,7 +2,7 @@
 title: "Curious Crisper: 10 Crunchy Cruciferous Vegetables"
 description: Get curious about the crunchy goodness of cruciferous vegetables! Our list reveals the unique nutrition, taste, and immune support these veggies offer.
 featured_img: /img/logo.png
-date: 2023-11-03
+date: 2023-06-12
 tags:
  - health
  - food
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-03
-  modified: 2023-11-03
+  published: 2023-06-12
+  modified: 2023-06-12
 ---
 🥬🥦🟢🥬🥦🟢🥬🥦🟢🥬🥦🟢🥬🥦🟢🥬 {.big-code}
 

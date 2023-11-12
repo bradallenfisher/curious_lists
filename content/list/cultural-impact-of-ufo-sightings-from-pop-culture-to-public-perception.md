@@ -1,7 +1,7 @@
 ---
 title: 'Cultural Impact of UFO Sightings: From Pop Culture to Public Perception'
 description: 'Discover the fascinating influence of UFO sightings on society, from their portrayal in pop culture to their impact on public perception. A curious exploration of cultural phenomenon.'
-date: 2023-11-10
+date: 2023-08-21
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-08-21
+  modified: 2023-08-21
 ---
 
 

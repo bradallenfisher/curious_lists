@@ -2,7 +2,7 @@
 title: 'Fullstaq Marketer: The Brainchild of Keala Kanae and Its Vision'
 description: Delve into a curious list about Fullstaq Marketer, Keala Kanae's innovative venture. Explore the company's mission, vision, and its transformative impact on affiliate marketing!
 featured_img: /img/logo.png
-date: 2023-10-04
+date: 2023-09-19
 tags:
  - marketer
  - persona
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-04
-  modified: 2023-10-04
+  published: 2023-09-19
+  modified: 2023-09-19
 ---
 
 1. **Genesis of Fullstaq Marketer** {style="counter-reset: list 0;"}

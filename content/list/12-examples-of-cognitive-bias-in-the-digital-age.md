@@ -1,7 +1,7 @@
 ---
 title: '12 Examples of Cognitive Bias in the Digital Age'
 description: 'Explore 12 intriguing examples of cognitive bias in our digital era. Discover how our curious minds can unknowingly lead us astray.'
-date: 2023-11-10
+date: 2023-09-26
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-26
+  modified: 2023-09-26
 ---
 
 

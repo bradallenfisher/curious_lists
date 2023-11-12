@@ -1,7 +1,7 @@
 ---
 title: 5 Cat-Inspired Technologies Innovating Your World
 description: Discover how the curious nature of cats has inspired innovative technologies in robotics, AI, biotech, and more, transforming our world in surprising ways.
-date: 2023-11-09
+date: 2023-04-22
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-04-22
+  modified: 2023-04-22
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: '9 Negotiation Strategies for Conflict Resolution'
 description: 'Discover effective negotiation strategies for conflict resolution. This guide equips you with practical techniques to navigate complex discussions and find common ground.'
-date: 2023-11-09
+date: 2023-09-04
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-09-04
+  modified: 2023-09-04
 ---
 
 

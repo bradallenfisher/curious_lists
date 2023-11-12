@@ -1,7 +1,7 @@
 ---
 title: 'The Role of Cognitive Bias in Historical Events: 6 Case Studies'
 description: 'Discover the intriguing impact of cognitive bias on historical events through 6 captivating case studies that challenge our understanding of the past.'
-date: 2023-11-10
+date: 2023-04-24
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-04-24
+  modified: 2023-04-24
 ---
 
 

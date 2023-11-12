@@ -1,7 +1,7 @@
 ---
 title: 6 Historical Figures and Their Legendary Feline Companions
 description: Discover the captivating stories of six historical figures and their legendary feline companions. A treat for the curious and cat lovers alike.
-date: 2023-11-09
+date: 2023-10-17
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-10-17
+  modified: 2023-10-17
 ---
 
 

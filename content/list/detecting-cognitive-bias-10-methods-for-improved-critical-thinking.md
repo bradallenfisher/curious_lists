@@ -1,7 +1,7 @@
 ---
 title: 'Detecting Cognitive Bias: 10 Methods for Improved Critical Thinking'
 description: 'Discover 10 effective methods to enhance critical thinking skills and overcome cognitive biases. Unlock your curious mind for improved decision-making.'
-date: 2023-11-10
+date: 2022-10-20
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-10-20
+  modified: 2022-10-20
 ---
 
 

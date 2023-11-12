@@ -1,7 +1,7 @@
 ---
 title: 'How Keala Kanaes Strategies Are Shaping the Future of Affiliate Marketing'
 description: "Discover the innovative strategies of Keala Kanae that are revolutionizing the future of affiliate marketing. Don't miss out on this curious insight."
-date: 2023-11-10
+date: 2023-01-14
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-14
+  modified: 2023-01-14
 ---
 
 

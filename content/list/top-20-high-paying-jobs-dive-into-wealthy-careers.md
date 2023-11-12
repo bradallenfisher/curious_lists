@@ -2,7 +2,7 @@
 title: Top 20 High-Paying Jobs
 description: Dive into a list of the top 20 highest paying jobs. If you're curious about where the big bucks are, this is your guide.
 featured_img: /img/logo.png
-date: 2023-09-12
+date: 2023-08-27
 tags:
  - career
  - money
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-12
-  modified: 2023-09-12
+  published: 2023-08-27
+  modified: 2023-08-27
 ---
 🤑 🏦 🪙 💰 💴 💵 💶 💷 💸 💲 💳 🫰 {.big-code}
 

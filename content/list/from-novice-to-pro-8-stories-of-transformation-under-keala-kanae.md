@@ -1,7 +1,7 @@
 ---
 title: 'From Novice to Pro: 8 Stories of Transformation Under Keala Kanae'
 description: 'Discover 8 inspiring tales of transformation in "From Novice to Pro" by Keala Kanae. These stories will captivate curious minds seeking growth and success.'
-date: 2023-11-10
+date: 2023-04-18
 tags:
  - marketing
  - persona
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-04-18
+  modified: 2023-04-18
 ---
 
 

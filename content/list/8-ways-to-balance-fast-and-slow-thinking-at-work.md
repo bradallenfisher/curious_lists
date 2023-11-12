@@ -1,7 +1,7 @@
 ---
 title: '8 Ways to Balance Fast and Slow Thinking at Work'
 description: 'Discover 8 effective strategies to strike a balance between quick decision-making and thoughtful analysis at work. Stay curious while optimizing your productivity.'
-date: 2023-11-12
+date: 2022-11-19
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2022-11-19
+  modified: 2022-11-19
 ---
 
 

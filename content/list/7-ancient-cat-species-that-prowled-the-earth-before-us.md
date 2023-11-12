@@ -1,7 +1,7 @@
 ---
 title: 7 Ancient Cat Species That Prowled The Earth Before Us
 description: Discover the world of ancient cat species that prowled the Earth before us and satisfy your curious mind about these majestic creatures.
-date: 2023-11-09
+date: 2022-11-05
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-11-05
+  modified: 2022-11-05
 ---
 
 

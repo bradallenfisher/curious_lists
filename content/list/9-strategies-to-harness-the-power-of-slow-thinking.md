@@ -1,7 +1,7 @@
 ---
 title: '9 Strategies to Harness the Power of Slow Thinking'
 description: 'Discover 9 effective strategies to tap into the potential of deliberate thinking. Enhance decision-making skills and embrace a curious mindset.'
-date: 2023-11-12
+date: 2023-06-02
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-06-02
+  modified: 2023-06-02
 ---
 
 

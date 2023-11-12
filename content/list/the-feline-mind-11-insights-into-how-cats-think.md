@@ -1,7 +1,7 @@
 ---
 title: "The Feline Mind: 11 Insights into How Cats Think"
 description: 'Discover the fascinating world of feline cognition with "The Feline Mind: 11 Insights into How Cats Think." Unlock the mysterious and curious minds of cats.'
-date: 2023-11-09
+date: 2023-07-15
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-07-15
+  modified: 2023-07-15
 ---
 
 

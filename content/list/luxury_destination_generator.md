@@ -2,7 +2,7 @@
 title: Luxury Destination Generator
 description: Curious about luxury destinations? If you plan to travel and like boutique hotel destinations... Use our destination generator list and pick a place.
 featured_img: /img/featured.jpg
-date: 2023-08-26
+date: 2023-02-21
 tags:
   - travel
   - vacation
@@ -24,8 +24,8 @@ meta:
     src: /img/featured/image.png
   author:
     name: Brad Allen Fisher
-  published: 2023-08-26
-  modified: 2023-08-26
+  published: 2023-02-21
+  modified: 2023-02-21
   faq:
     - question: What is the purpose of the Luxury Destination Generator?
       answer: The Luxury Destination Generator is designed to provide you with a list of the world's most exquisite getaways.

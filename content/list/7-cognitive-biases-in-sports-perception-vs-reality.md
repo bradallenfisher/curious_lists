@@ -1,7 +1,7 @@
 ---
 title: '7 Cognitive Biases in Sports: Perception vs. Reality'
 description: 'Discover 7 cognitive biases that shape our sports perception. Explore the fascinating world of how our minds play tricks on us in the realm of athletics.'
-date: 2023-11-10
+date: 2022-11-01
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-11-01
+  modified: 2022-11-01
 ---
 
 

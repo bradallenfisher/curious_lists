@@ -1,7 +1,7 @@
 ---
 title: 'The Role of Intuition in Spiritual Practices: Unveiling 6 Core Insights'
 description: 'Discover the profound connection between intuition and spiritual practices with 6 essential insights, igniting curiosity for a transformative journey.'
-date: 2023-11-10
+date: 2023-10-17
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-17
+  modified: 2023-10-17
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Science of Whiskers: 5 Ways Cats Use Them Intelligently"
 description: "Discover how cats use their whiskers in surprising ways! Learn how these curious creatures navigate, communicate, and hunt with their amazing whiskers."
-date: 2023-11-09
+date: 2023-02-13
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-02-13
+  modified: 2023-02-13
 ---
 
 

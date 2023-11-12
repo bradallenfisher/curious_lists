@@ -1,7 +1,7 @@
 ---
 title: "Feline Communication: 10 Instances Cats Understood Humans"
 description: "Discover how cats and humans communicate in unexpected ways! Uncover 10 fascinating instances where feline curiosity helps them understand their human companions."
-date: 2023-11-09
+date: 2023-05-01
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-05-01
+  modified: 2023-05-01
 ---
 
 

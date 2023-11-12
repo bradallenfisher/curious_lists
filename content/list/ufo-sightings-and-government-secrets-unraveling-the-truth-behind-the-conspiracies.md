@@ -1,7 +1,7 @@
 ---
 title: 'UFO Sightings and Government Secrets: Unraveling the Truth Behind the Conspiracies'
 description: 'Discover the hidden mysteries of UFO sightings and government secrets, as this gripping documentary unveils the truth behind intriguing conspiracies.'
-date: 2023-11-10
+date: 2023-09-17
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-09-17
+  modified: 2023-09-17
 ---
 
 

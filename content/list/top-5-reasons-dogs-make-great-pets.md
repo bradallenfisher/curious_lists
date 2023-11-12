@@ -2,7 +2,7 @@
 title: Top 5 Reasons Dogs Make Great Pets
 description: Curious about why canines reign supreme as companions? Our list details the top 5 heartwarming reasons dogs are truly man's best friend.
 featured_img: /img/logo.png
-date: 2023-09-07
+date: 2023-06-20
 tags:
   - dogs
   - reasons
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-09-07
-  modified: 2023-08-07
+  published: 2023-06-20
+  modified: 2023-06-20
 ---
 
 1. Unconditional love and companionship.

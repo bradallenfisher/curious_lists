@@ -1,7 +1,7 @@
 ---
 title: 'The Top 5 Negotiation Tactics Used by Diplomats'
 description: 'Discover the top 5 negotiation tactics employed by diplomats. This article satisfies your curiosity about effective strategies for diplomatic negotiations.'
-date: 2023-11-09
+date: 2023-09-13
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-09-13
+  modified: 2023-09-13
 ---
 
 

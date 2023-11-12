@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Power of Mindfulness: 5 Key Techniques and Their Benefits'
 description: 'Discover the transformative benefits of mindfulness with 5 essential techniques for those curious about enhancing well-being and reducing stress.'
-date: 2023-11-10
+date: 2023-10-05
 tags:
  - mind-body
  - lifestyle
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-10-05
+  modified: 2023-10-05
 ---
 
 

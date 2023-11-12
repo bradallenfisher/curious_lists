@@ -1,7 +1,7 @@
 ---
 title: '10 Key Phrases for Opening a Negotiation with Confidence'
 description: 'Discover 10 essential phrases to confidently initiate a negotiation. Learn how to approach discussions with curiosity and assertiveness for success.'
-date: 2023-11-09
+date: 2022-10-27
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-27
+  modified: 2022-10-27
 ---
 
 

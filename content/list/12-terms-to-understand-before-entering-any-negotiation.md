@@ -1,7 +1,7 @@
 ---
 title: '12 Terms to Understand Before Entering Any Negotiation'
 description: 'Discover 12 essential terms to master negotiations. This guide equips curious minds with the knowledge to thrive in any bargaining situation.'
-date: 2023-11-09
+date: 2023-08-02
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-08-02
+  modified: 2023-08-02
 ---
 
 

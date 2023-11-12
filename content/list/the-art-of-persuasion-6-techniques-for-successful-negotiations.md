@@ -1,7 +1,7 @@
 ---
 title: 'The Art of Persuasion: 6 Techniques for Successful Negotiations'
 description: 'Discover effective techniques for successful negotiations in "The Art of Persuasion." Enhance your skills and satisfy your curious mind.'
-date: 2023-11-09
+date: 2022-10-08
 tags:
  - negotiation
  - psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-08
+  modified: 2022-10-08
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Beyond the Lights: Personal Accounts and Stories of UFO Experiences'
 description: 'Discover the intriguing world of UFO encounters through personal accounts and stories in "Beyond the Lights." Engage with curious tales that captivate.'
-date: 2023-11-10
+date: 2023-01-23
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-01-23
+  modified: 2023-01-23
 ---
 
 

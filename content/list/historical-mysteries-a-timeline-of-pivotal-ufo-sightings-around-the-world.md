@@ -1,7 +1,7 @@
 ---
 title: 'Historical Mysteries: A Timeline of Pivotal UFO Sightings Around the World'
 description: 'Discover a captivating timeline of pivotal UFO sightings worldwide, exploring historical mysteries that leave curious minds intrigued and fascinated.'
-date: 2023-11-10
+date: 2022-12-11
 tags:
  - paranormal
  - ufo
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2022-12-11
+  modified: 2022-12-11
 ---
 
 

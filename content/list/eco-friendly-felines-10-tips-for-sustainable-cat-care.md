@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Felines: 10 Tips for Sustainable Cat Care"
 description: Discover sustainable cat care with our 10 eco-friendly tips. A curious cat owner can help their pet live a greener, healthier life.
-date: 2023-11-09
+date: 2022-10-09
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2022-10-09
+  modified: 2022-10-09
 ---
 
 

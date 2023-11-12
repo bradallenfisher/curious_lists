@@ -1,7 +1,7 @@
 ---
 title: '7 Times Fast Thinking Saves the Day'
 description: 'Discover 7 incredible stories where quick thinking triumphs over adversity. A fascinating collection that showcases the power of curiosity and ingenuity.'
-date: 2023-11-12
+date: 2023-07-08
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-07-08
+  modified: 2023-07-08
 ---
 
 

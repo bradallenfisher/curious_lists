@@ -2,7 +2,7 @@
 title: Top 10 Intriguing Fields in Psychology
 description: Satiate your curious mind by delving into the captivating psychological fields that shape our understanding of the human psyche.
 featured_img: /img/logo.png
-date: 2023-10-08
+date: 2023-04-09
 tags:
  - psychology
  - profession
@@ -24,8 +24,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-10-08
-  modified: 2023-10-08
+  published: 2023-04-09
+  modified: 2023-04-09
 ---
 🧠💬📓✏️🧠💬📓✏️🧠💬📓✏️🧠💬📓✏️🧠💬📓 {.big-code}
 

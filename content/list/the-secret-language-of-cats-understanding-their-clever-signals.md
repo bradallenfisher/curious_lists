@@ -1,7 +1,7 @@
 ---
 title: "The Secret Language of Cats: Understanding Their Clever Signals"
 description: 'Discover the fascinating world of feline communication with "The Secret Language of Cats," decoding their clever signals that satisfy even the most curious minds.'
-date: 2023-11-09
+date: 2023-01-27
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-01-27
+  modified: 2023-01-27
 ---
 
 

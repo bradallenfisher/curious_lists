@@ -1,7 +1,7 @@
 ---
 title: "The Art of Manipulation: How Cats Get What They Want"
 description: 'Discover the insidious tactics felines employ to achieve their desires in "The Art of Manipulation: How Cats Satisfy Their Curiosity and Get What They Want.'
-date: 2023-11-09
+date: 2023-06-11
 tags:
  - cats
  - animals
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-09
-  modified: 2023-11-09
+  published: 2023-06-11
+  modified: 2023-06-11
 ---
 
 

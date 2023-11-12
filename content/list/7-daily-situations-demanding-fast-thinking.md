@@ -1,7 +1,7 @@
 ---
 title: '7 Daily Situations Demanding Fast Thinking'
 description: 'Discover 7 intriguing scenarios that test your quick thinking skills. Solve puzzles, face challenges, and embrace your curious nature to overcome daily obstacles.'
-date: 2023-11-12
+date: 2023-05-22
 tags:
  - brain
  - cognitive psychology
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-12
-  modified: 2023-11-12
+  published: 2023-05-22
+  modified: 2023-05-22
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: '7 Ways Cognitive Biases Influence Political Opinions'
 description: 'Discover how cognitive biases shape political opinions. This intriguing exploration reveals 7 ways these biases influence our curious minds.'
-date: 2023-11-10
+date: 2023-04-12
 tags:
  - psychology
  - theory
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-11-10
-  modified: 2023-11-10
+  published: 2023-04-12
+  modified: 2023-04-12
 ---
 
 
