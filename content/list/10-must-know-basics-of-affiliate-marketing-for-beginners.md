@@ -1,7 +1,7 @@
 ---
 title: '10 Must-Know Basics of Affiliate Marketing for Beginners'
 description: 'Discover the essential fundamentals of affiliate marketing in this beginner''s guide. Learn how to build passive income streams and satisfy your curious mind.'
-date: 2023-06-15
+date: 2023-10-12
 tags:
  - marketing
  - affiliate
@@ -23,8 +23,8 @@ meta:
     src: /img/logo.png
   author:
     name: Brad Allen Fisher
-  published: 2023-06-15
-  modified: 2023-06-15
+  published: 2023-10-12
+  modified: 2023-10-12
 ---
 
 
