@@ -1,6 +1,6 @@
 ---
-title: test
-description: test
+title: 6 Amazing Stories of Cats Saving Humans
+description: These felines will surely satisfy your curiosity. 
 date: 2023-10-26
 tags:
  - cats
