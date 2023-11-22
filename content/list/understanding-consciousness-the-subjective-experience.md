@@ -65,7 +65,7 @@ meta:
   - **Insight:** Authentic Self-Expression
   - **Growth:** Authenticity in Action
 
-7. The Quest for Purpose and[  Meaning   {style="counter-reset:](https://curiouslists.com/list/narratives-of-the-self-crafting-your-personal-story) list 6;"}
+7. The Quest for Purpose and Meaning   {style="counter-reset: list 6;"}
   - **Aspect:** Existential Reflection
   - **Insight:** Finding Life's Direction
   - **Growth:** Purposeful Living
